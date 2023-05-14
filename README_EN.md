@@ -9,7 +9,7 @@
 > - If you would like to join this project, please join us at Discord, we welcome Minecraft developers from all walks of life to work on this great project
 >
 >  Our Discord Channel：https://discord.gg/SNxrEr6Uyq<br>
->  Wrong lanuange? [简体中文](https://github.com/xiaoyueyoqwq/IFC-PRP/blob/main/README.md)<br>
+>  语言错误? [简体中文](https://github.com/xiaoyueyoqwq/IFC-PRP/blob/main/README.md)<br>
 <br>
 Plan：  
 
