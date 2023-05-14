@@ -12,6 +12,6 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 >  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq<br>
 <br>
 兼容列表：<br>
-1.[LaggRemover] 重置进度：0%<br>
-2.[QuickSaveBackup] 重置进度：3% ===> [HynseBackup]<br>
-3.[JukeBox] 重置进度：0%<br>
+1.**[LaggRemover]** 重置进度：0%<br>
+2.**[QuickSaveBackup]** 重置进度：3% ===> **[HynseBackup]**<br>
+3.**[JukeBox]** 重置进度：0%<br>
