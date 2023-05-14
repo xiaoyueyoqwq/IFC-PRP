@@ -9,4 +9,9 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 > - 我们不接受任何类似于诽谤侵权等行为，如果您的插件已经被重置我们将有权使用我们自己的账号在任何平台上发布您插件的，直到原作者回来认领为止
 > - 如果你也想加入此项目请加入我们的Discord，我们非常欢迎各界Minecraft开发者来一起完成这伟大的项目
 >
->  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq
+>  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq<br>
+<br>
+兼容列表：<br>
+1.[LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) 重置进度：0%<br>
+2.[QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups) 重置进度：3% ===> [HynseBackup](https://github.com/MidnightTale/HynseBackup)<br>
+3.[JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) 重置进度：0%<br>
