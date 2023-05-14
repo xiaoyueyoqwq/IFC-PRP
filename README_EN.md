@@ -11,7 +11,9 @@
 >  Our Discord Channel：https://discord.gg/SNxrEr6Uyq<br>
 >  Wrong lanuange? [简体中文](https://github.com/xiaoyueyoqwq/IFC-PRP/blob/main/README.md)<br>
 <br>
-<p>Plan：<br>
-1. LaggRemover Progress：0%<br>
-2. QuickSaveBackup Progress：3% ===> HynseBackup<br>
-3. JukeBox Progress：0%</p>
+Plan：  
+
+- [ ] [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) *Not Start*
+- [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups)
+  - Start at 2023/5/14，New Project[HynseBackup](https://github.com/MidnightTale/HynseBackup)
+- [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) *Not start*
