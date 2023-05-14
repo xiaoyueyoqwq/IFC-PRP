@@ -12,6 +12,6 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 >  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq<br>
 <br>
 计划内容：
-- [ ] [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) 项目未开始
-- [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups) ======> [HynseBackup](https://github.com/MidnightTale/HynseBackup) 进度3%
-- [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) 项目未开始
+- [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) 项目未开始
+- [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups) ======> [HynseBackup](https://github.com/MidnightTale/HynseBackup) 进度3%
+- [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) 项目未开始
