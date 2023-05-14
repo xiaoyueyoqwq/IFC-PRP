@@ -10,7 +10,7 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 > - 如果你也想加入此项目请加入我们的Discord，我们非常欢迎各界Minecraft开发者来一起完成这伟大的项目
 >
 >  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq<br>
->  我们的QQ交流群：731679697
+>  我们的QQ交流群：731679697<br>
 >  Wrong lanuange? [EN](https://github.com/xiaoyueyoqwq/IFC-PRP/blob/main/README_EN.md)
 <br>
 计划内容：  
