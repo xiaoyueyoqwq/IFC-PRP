@@ -13,6 +13,7 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 <br>
 计划内容：  
 
-- [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) 项目未开始
-- [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups) ======> [HynseBackup](https://github.com/MidnightTale/HynseBackup) 进度3%
-- [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) 项目未开始
+- [ ] [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/)
+- [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups)
+  - 项目新建，新项目[HynseBackup](https://github.com/MidnightTale/HynseBackup)
+- [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821)
