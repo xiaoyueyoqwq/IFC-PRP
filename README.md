@@ -6,7 +6,7 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 > - 本项目全称*INFINITYCRAFT-PluginRemakePlan*，请不要对此产生错误的理解
 > - 本项目宗旨是重制一些放弃维护的Bukkit/Spigot/Paper插件，将他们重制并兼容到最新版本的Folia及其分支核心
 > - 如果你想提交希望重置的插件请移步到issue，请注意留下**插件的源码链接**，否则我们将直接关闭您的issue
-> - 我们将依据原插件的开源协议的要求进行开源以及发布，重制代码及本体所有权仍归原作者所有，如原作者认为侵权，可联系我们进行删除
+> - 我们将依据原插件的开源协议的要求进行开源以及发布，如果插件作者已经在Minecraft技术圈人间蒸发切无法联系我们将略过开源协议，重制代码及本体所有权仍归原作者所有，如原作者认为侵权，可联系我们进行删除
 > - 如果你也想加入此项目请加入我们的Discord，我们非常欢迎各界Minecraft开发者来一起完成这伟大的项目
 >
 >  我们的Discorld频道：https://discord.gg/SNxrEr6Uyq<br>
