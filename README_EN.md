@@ -13,7 +13,8 @@
 <br>
 Plan：  
 
-- [ ] [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/) *Not Start*
+- [ ] [LaggRemover](https://www.spigotmc.org/resources/laggremover.6149/)
+  - Start at 2023/5/18, New Project: [LaggRemoverFolia](https://github.com/RIvance/LaggRemoverFolia)
 - [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups)
   - Start at 2023/5/14，New Project: [HynseBackup](https://github.com/MidnightTale/HynseBackup)
 - [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821) *Not Start*
