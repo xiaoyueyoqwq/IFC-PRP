@@ -1,6 +1,6 @@
 # IFC-PRP
 INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
-> #### Hi，欢迎访问PRP的项目
+> #### Hi，欢迎访问INFINITYCRAFT-PRP项目
 > #### 以下是本项目介绍，如有纰漏请帮忙指正
 >
 > - 本项目全称*INFINITYCRAFT-PluginRemakePlan*，请不要对此产生错误的理解
