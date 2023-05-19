@@ -16,7 +16,7 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 计划内容：  
 
 - [ ] [LaggRemover](https://github.com/Moki0/publish_LaggRemover)
- - 项目新建，新项目[LaggRemoverFolia](https://github.com/RIvance/LaggRemoverFolia)
+  - 项目新建，新项目[LaggRemoverFolia](https://github.com/RIvance/LaggRemoverFolia)
 - [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups)
   - 项目新建，新项目[HynseBackup](https://github.com/MidnightTale/HynseBackup)
 - [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821)
