@@ -20,4 +20,4 @@ INFINITYCRAFT社区Bukkit/Spigot/Paper插件重置兼容Folia计划
 - [ ] [QuickSaveBackup](https://github.com/rockyhawk64/QuickSaveBackups)
   - 项目新建，新项目[HynseBackup](https://github.com/MidnightTale/HynseBackup)
 - [ ] [JukeBox](https://github.com/SkytAsul/JukeBox/issues/46#issuecomment-1537447821)
-- [ ] [Dangerous Caves 2](https://www.spigotmc.org/resources/dangerous-caves-2-make-your-caves-scary-1-12-2-1-16-5.76212/)
+- [ ] [Dangerous Caves 2](https://github.com/imDaniX/Dangerous-Caves-2)
